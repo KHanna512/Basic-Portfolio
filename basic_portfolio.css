@@ -1,0 +1,23 @@
+ header {
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    color: teal; 
+}
+ #index { 
+    float: right;
+    background-color: white;
+    font-size: 14px;
+    width: 10%
+ }
+ #contact{
+    float: right;
+    background-color: white;
+    font-size: 14px;
+    width: 10%
+
+ }
+ #portfolio{
+    float: right;
+    background-color: white;
+    font-size: 14px; 
+    width: 10%
+ }
